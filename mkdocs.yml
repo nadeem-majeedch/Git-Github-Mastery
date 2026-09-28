@@ -1,0 +1,15 @@
+site_name: Git & GitHub Mastery
+docs_dir: docs
+
+nav:
+  - Home: README.md
+  - "Part 1: Introduction to Version Control": part-1-introduction-to-version-control.md
+  - "Part 2: Getting Started with Git": part-2-getting-started-with-git.md
+  - "Part 3: Basic Workflow": part-3-basic-workflow.md
+  - "Part 4: Branching and Merging": part-4-branching-and-merging.md
+  - "Part 5: Introduction to GitHub": part-5-introduction-to-github.md
+  - "Part 6: Collaboration Workflows": part-6-collaboration-workflows.md
+  - "Part 7: Advanced Git": part-7-advanced-git.md
+  - "Part 8: Git Internals": part-8-git-internals.md
+  - Cheat Sheet: cheatsheet.md
+  - Command Sequence: git-commands-sequence.md
